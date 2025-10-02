@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # --- PAGE CONFIG ---
-st.set_page_config(page_title="Project 1", layout="wide")
+st.set_page_config(page_title="Project 1", layout="centered")
 
 # --- HEADER ---
 st.markdown("<h1 style='text-align: center; background-color: black; color: white; padding: 10px;'>Project 1</h1>", unsafe_allow_html=True)
