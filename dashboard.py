@@ -5,6 +5,13 @@ import matplotlib.pyplot as plt
 import streamlit as st
 
 st.title("📊 Machine Learning Models Performance Dashboard")
+#Download zip folder
+st.download_button(
+    "Download Dataset '.zip'",
+    "https://github.com/your-username/your-repo/archive/refs/heads/main.zip",
+    "main.zip",
+    "application/zip",
+)
 
 # قراءة ملفات الـ accuracy
 with open("jsons/results_spam.json", "r") as f:
