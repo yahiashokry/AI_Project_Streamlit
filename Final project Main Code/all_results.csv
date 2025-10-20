@@ -1,0 +1,8 @@
+Algorithm,Document Classification,Price Prediction,Spam Detection
+Decision Tree,0.82,,0.962478184991274
+KNN,0.94,0.8832776323547,0.9720767888307156
+Linear Regression,,0.9033851050358044,
+Logistic Regression,0.95,,0.9738219895287958
+Naive Bayes,0.96,,0.9546247818499127
+Random Forest,,0.9905660371703754,
+SVM,0.96,,0.9842931937172775
